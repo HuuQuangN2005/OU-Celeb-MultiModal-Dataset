@@ -1,1 +1,1 @@
-# OUCMD: OU Celeb MultiModal Dataset
+# OUCMD: A Celeb MultiModal Dataset
